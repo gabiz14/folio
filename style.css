@@ -1,0 +1,4 @@
+  @media all and (min-width: 45em) {
+    .my-breakpoint.ui-grid-b .ui-block-a { width: 70%; }
+    .my-breakpoint.ui-grid-b .ui-block-c { width: 24.925%; border-left:1px solid black; }
+  }
